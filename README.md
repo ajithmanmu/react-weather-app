@@ -1,6 +1,5 @@
-# ReduxSimpleStarter
+### This is a simple Weather app created on React-Redux. I used the ReduxSimpleStarter as a boilerplate for this project. More details below.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
 ### Getting Started
 
